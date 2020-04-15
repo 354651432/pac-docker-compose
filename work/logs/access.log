@@ -1,0 +1,5 @@
+172.21.0.1 - - [15/Apr/2020:09:08:53 +0000] "GET / HTTP/1.1" "403" 577 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" "-" "-" 0.000 738 1020
+172.21.0.1 - - [15/Apr/2020:09:08:53 +0000] "GET /favicon.ico HTTP/1.1" "200" 0 "http://127.0.0.1/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" "-" "-" 0.000 153 846
+172.21.0.1 - - [15/Apr/2020:09:08:58 +0000] "GET /auto.pac HTTP/1.1" "404" 577 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" "-" "-" 0.000 738 947
+172.21.0.1 - - [15/Apr/2020:09:08:58 +0000] "GET /favicon.ico HTTP/1.1" "200" 0 "http://127.0.0.1/auto.pac" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" "-" "-" 0.000 153 854
+172.21.0.1 - - [15/Apr/2020:09:09:10 +0000] "GET /index.pac HTTP/1.1" "200" 158198 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" "-" "-" 0.000 158471 948
